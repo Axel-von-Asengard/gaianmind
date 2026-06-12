@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"About.md","permalink":"/about/","pinned":"yes","tags":["gardenEntry"],"created":"2025-07-04T20:54:29.945+02:00"}
+{"dg-publish":true,"dg-path":"home.md","permalink":"/home/","pinned":"yes","tags":["gardenEntry"],"created":"2025-07-04T20:54:29.945+02:00"}
 ---
 
 This is the landing page, or homepage, of my site (Gaian Mind)
